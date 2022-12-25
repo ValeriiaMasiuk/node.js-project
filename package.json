@@ -1,0 +1,27 @@
+{
+  "name": "node.js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriiaMasiuk/node.js-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriiaMasiuk/node.js-project/issues"
+  },
+  "homepage": "https://github.com/ValeriiaMasiuk/node.js-project#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "nodemon": "^2.0.20",
+    "shortid": "^2.2.16",
+    "yargs": "^17.6.2"
+  }
+}
