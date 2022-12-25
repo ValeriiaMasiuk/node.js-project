@@ -1,7 +1,7 @@
 Посилання на скріни:
 
 - Показати список контактів
-  https://ibb.co/3Cvvjd3
+  https://ibb.co/NpzqfvS
 
 - Отримати контакт за id
   https://ibb.co/3Cvvjd3
